@@ -1,0 +1,32 @@
+{
+	"storyName": "rapping the titular",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "deez",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"titular",
+			"henry",
+			[
+				0,
+				80,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"henry",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week_henry"
+}
