@@ -1,11 +1,11 @@
 {
-	
+	"idle_anim": "GF Dancing Beat WHITE",
 	"image": "Menu_GF",
 	"position": [
-		0,
-		-25
+		160,
+		96
 	],
-	"scale": 1,
-	"idle_anim": "M GF Idle",
-	"confirm_anim": "M GF Idle"
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "GF Dancing Beat WHITE"
 }
